@@ -1,4 +1,8 @@
-A simple bank app create Pyhon, Sqlite3 and Tkinter
+## BASIC ATM DESKTOP APP
+Created using:
+- Python
+- Tkinter
+- SQlite3
 
 You can try it out with these credentials:
 
